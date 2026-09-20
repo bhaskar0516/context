@@ -1,0 +1,7 @@
+name: This is about contexts in github actions
+on: push
+jobs:
+  deploy-job:
+    runs-on: ubtunu-latest
+    steps:
+      - name: 
